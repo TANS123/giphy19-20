@@ -1,3 +1,13 @@
 h1 {
-  color: fuchsia;
+  color: rgb(13, 253, 161);
+   text-align: center;
+}
+body {
+  background-color: black;
+}
+button {
+  background-color: rgb(13, 253, 161);
+}
+input {
+  text-align: center;
 }
